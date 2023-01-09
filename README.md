@@ -24,13 +24,22 @@ Below we can see a breakdown of each teams wins per division:
   <tr>
     <td>Atlantic</td>
      <td>Metro</td>
-     <td>Pacific</td>
-    <td>Central</td>
   </tr>
   <tr>
     <td><img width="545" alt="Atlantic Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425138-3d7aaf21-192e-431b-af5d-e620592b1a48.png"></td>
     <td><img width="545" alt="Metro Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425140-be5a5226-1253-46a8-8ee6-65be8953a2f4.png"></td>
-    <td><img width="545" alt="Central Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425142-cc0ec5fd-8f13-416d-84fc-3f4a96d5e300.png"></td>
-    <td><img width="545" alt="Pacific Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425143-09004997-aa4c-4582-acf3-d1330c17e56a.png"></td>
   </tr>
  </table>
+ 
+ <table>
+    <tr>
+      <td>Pacific</td>
+      <td>Central</td>
+    </tr>
+    <tr>
+      <td><img width="545" alt="Central Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425142-cc0ec5fd-8f13-416d-84fc-3f4a96d5e300.png"></td>
+    <td><img width="545" alt="Pacific Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425143-09004997-aa4c-4582-acf3-d1330c17e56a.png"></td>
+  </tr>
+  </table>
+  
+  

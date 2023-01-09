@@ -22,9 +22,10 @@ Below we can see a breakdown of each teams wins per division:
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Atlantic</td>
+     <td>Metro</td>
+     <td>Pacific</td>
+    <td>Central</td>
   </tr>
   <tr>
     <td><img width="545" alt="Atlantic Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425138-3d7aaf21-192e-431b-af5d-e620592b1a48.png"></td>

@@ -33,8 +33,8 @@ Below we can see a breakdown of each teams wins per division:
  
  <table>
     <tr>
-      <td>Pacific</td>
       <td>Central</td>
+      <td>Pacific</td>
     </tr>
     <tr>
       <td><img width="545" alt="Central Wins by Division" src="https://user-images.githubusercontent.com/110205528/211425142-cc0ec5fd-8f13-416d-84fc-3f4a96d5e300.png"></td>
